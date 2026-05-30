@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Le Squadre</title>
+  <link rel="stylesheet" href="stile.css">
+</head>
+<body class="squadre">
+  <div class="container">
+    <h1>Le 3 Squadre Più Importanti</h1>
+    <div class="squadra">
+      <img src="juve.jpeg" alt="Juventus" />
+      <div>
+        <h2>Juventus</h2>
+        <p>La Juventus è una delle squadre più titolate della Serie A, con una lunga tradizione di successi. Visita il loro <a href="https://www.juventus.com" target="_blank">sito ufficiale</a> per maggiori informazioni.</p>
+      </div>
+    </div>
+    <div class="squadra">
+      <img src="inter.jpeg" alt="Inter" />
+      <div>
+        <h2>Inter Milan</h2>
+        <p>L'Inter ha una storia ricca di vittorie internazionali e nazionali. Per scoprire di più, visita il loro <a href="https://www.inter.it" target="_blank">sito ufficiale</a>.</p>
+      </div>
+    </div>
+    <div class="squadra">
+      <img src="milan.jpeg" alt="AC Milan" />
+      <div>
+        <h2>AC Milan</h2>
+        <p>AC Milan è una delle squadre più conosciute al mondo, con numerosi trofei in bacheca. Visita il loro <a href="https://www.acmilan.com" target="_blank">sito ufficiale</a>.</p>
+      </div>
+    </div>
+    <div class="nav-buttons">
+      <a href="B.home.html">Home</a>
+      <a href="C.classifica.html">Classifica</a>
+      <a href="D.notizie.html">Notizie</a>
+    </div>
+  </div>
+</body>
+</html>
+
